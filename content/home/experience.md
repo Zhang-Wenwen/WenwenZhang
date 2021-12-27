@@ -32,18 +32,23 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Machine Learning (Federated Learning, Action Recognition)
-        * Wearable Sensor (Intelligent Health Devices)
-        * Data Processing (Biomedical signal & Human signal)
+        * Machine learning (Federated Learning, Action Recognition)
+        * Wearable sensor (Intelligent Health Devices)
+        * Data processing (Biomedical signal & Human signal)
         
-  - title: R&D Intern, Hardware/Firmware and Data Processing engineer
+  - title: R&D Intern, Hardware/Firmware & Data Processing
     company: Texavie Technologies, Inc.
     company_url: ''
     company_logo: texavie
     location: Vancouver
     date_start: '2020-09-01'
     date_end: ''
-    description: Programming and testing hardware & firmware devices. Processing human signal & developing machine learning method from these analyzied data.
+    description: |2-
+        Responsibilities include:
+        
+        * Programming and testing hardware & firmware devices. 
+        * Processing human signal
+        * Dveloping machine learning method from these analyzied data.
 
 design:
   columns: '2'
