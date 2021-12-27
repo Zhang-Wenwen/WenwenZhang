@@ -7,7 +7,8 @@ bio: My research interests include wearable sensors, machine learning (federated
 interests:
   - Artificial Intelligence
   - Wearable Sensor
-  - Intelligent Health Devices.
+  - Intelligent Health Devices
+  - Action Recognition.
 social:
   - icon: envelope
     icon_pack: fas
