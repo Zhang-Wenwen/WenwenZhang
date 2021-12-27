@@ -14,19 +14,8 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  #autolink: true
-    - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.ca/citations?hl=en&user=Nn29Mm8AAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Zhang-Wenwen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/Wenw-Zhang/
+  autolink: true
+
     
   # Email form provider
   #form:
