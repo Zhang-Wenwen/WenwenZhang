@@ -1,7 +1,7 @@
 ---
 title: Wenwen Zhang
 role: "Graduate Student at University of British Columbia "
-avatar_filename: crop.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include wearable sensors, machine learning (federated
   learning, etc), intelligent health devices.
 interests:
