@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/Wenw-Zhang/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of British Columbia
+    url: https://www.ubc.ca/
 education:
   courses:
     - course: MASc in Electrical and Computer Engineering
