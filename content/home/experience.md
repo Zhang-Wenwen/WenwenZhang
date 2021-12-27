@@ -41,14 +41,14 @@ experience:
     company_url: ''
     company_logo: texavie
     location: Vancouver
-    date_start: '2020-09-01'
+    date_start: '2021-12-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Programming and testing hardware & firmware devices. 
+        * Programming and testing hardware & firmware devices
         * Processing human signal
-        * Dveloping machine learning method from these analyzied data.
+        * Dveloping machine learning method from these analyzied data
 
 design:
   columns: '2'
