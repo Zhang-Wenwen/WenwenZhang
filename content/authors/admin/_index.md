@@ -32,7 +32,7 @@ education:
       year: 2020
     - course: BSc in Electronic Information Engineering
       institution: Tianjin University
-      year: 2014
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
