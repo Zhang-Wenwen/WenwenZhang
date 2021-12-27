@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    institute: The University of British Columbia
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: ubc
+    location: Vancouver
+    date_start: '2020-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Machine Learning (Federated Learning, Action Recognition)
+        * Wearable Sensor (Intelligent Health Devices)
+        * Data Processing (Biomedical signal & Human signal)
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: R&D Intern, Hardware/Firmware and Data Processing engineer
+    company: Texavie Technologies, Inc.
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: texavie
+    location: Vancouver
+    date_start: '2020-09-01'
+    date_end: ''
+    description: Programming and testing hardware & firmware devices. Processing human signal & developing machine learning method from these analyzied data.
 
 design:
   columns: '2'
