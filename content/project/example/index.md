@@ -29,3 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 #---
+
+Federated learning method considering large proportion of no-label data with huge data heterogeneity at different device end.
