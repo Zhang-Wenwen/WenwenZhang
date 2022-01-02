@@ -28,6 +28,6 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
-#---
+---
 
 Federated learning method considering large proportion of no-label data with huge data heterogeneity at different device end.
