@@ -1,19 +1,19 @@
 ---
 title: 
 - Personalized Semi-supervised Federated Learning for Embedded Intelligence
-- Wearable Sensor System for Gait Disorder Patients
+#- Wearable Sensor System for Gait Disorder Patients
 
 summary: 
 - Federated learning method considering large proportion of no-label data with huge data heterogeneity at different device end.
-- Developing real-time algorithms to predict gait parameters of patients with disorders (Parkinson, stroke & geriatric).
+#- Developing real-time algorithms to predict gait parameters of patients with disorders (Parkinson, stroke & geriatric).
 
 tags:
 - Deep Learning
-- Other
+#- Other
 
 date: 
 - "2021-06-27T00:00:00Z"
-- "2021-01-27T00:00:00Z"
+#- "2021-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
