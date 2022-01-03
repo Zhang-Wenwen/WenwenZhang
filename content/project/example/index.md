@@ -11,7 +11,9 @@ tags:
 - Deep Learning
 - Other
 
-date: "2021-06-27T00:00:00Z"
+date: 
+- "2021-06-27T00:00:00Z"
+- "2021-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,6 +31,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
