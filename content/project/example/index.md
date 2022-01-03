@@ -14,7 +14,7 @@ external_link: ""
 
 links:
 - icon: graduation-cap
-  icon_pack: fab
+  icon_pack: fas
   name: LAB
   url: https://feel.ece.ubc.ca/
 url_code: ""
