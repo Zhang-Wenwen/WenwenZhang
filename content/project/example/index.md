@@ -32,4 +32,4 @@ url_video: ""
 
 This project focus on federated learning method considering large proportion of no-label data with huge data heterogeneity at different device end. It's supervised by Prof. Peyman Servati at Flexible Electronics and Energy Lab (FEEL) in the School of Electronic and Computer Engineering Department at The University of British Columbia, Canada.
 
-reference: Bonawitz, K., Eichner, H., Grieskamp, W., Huba, D., Ingerman, A., Ivanov, V., Kiddon, C., Konečný, J., Mazzocchi, S., McMahan, H.B. and Van Overveldt, T., 2019. Towards federated learning at scale: System design. arXiv preprint arXiv:1902.01046.
+reference: Huang, X., Ding, Y., Jiang, Z.L., Qi, S., Wang, X. and Liao, Q., 2020. DP-FL: a novel differentially private federated learning framework for the unbalanced data. World Wide Web, 23(4), pp.2529-2545.
