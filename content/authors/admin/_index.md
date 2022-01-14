@@ -39,4 +39,4 @@ highlight_name: true
 ---
 Wenwen is a research assistant in Flexible Electronics and Energy Lab (FEEL) at the University of British Columbia, Canada. Her research focuses on wearable devices and federated learning method considering large proportion of no-label data with huge data heterogeneity at different device end.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_wenwenZhang_v1.pdf" "newtab" >}}resumé{{< /staticref >}}.
